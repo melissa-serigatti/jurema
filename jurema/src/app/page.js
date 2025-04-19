@@ -5,7 +5,7 @@ export default function Home() {
     <div className={styles.page}>
       <main className={styles.main}>
         <div className={styles.ctas}>
-          <h1>Esse é o site da mel e da jurema</h1>
+          <h1>Esse é o site da mel e do Aparecido</h1>
         </div>
       </main>
     </div>
