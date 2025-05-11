@@ -20,5 +20,5 @@ test("Teste subtrai 4-3=1", () => {
 });
 
 test("Teste mutiplica", () => {
-    expect(multiplica(7,9)).toBe(67);
+    expect(multiplica(7,9)).toBe(63);
 });
